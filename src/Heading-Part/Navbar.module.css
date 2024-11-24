@@ -1,0 +1,24 @@
+.headingImage {
+    max-height: 66px;
+    position: relative;
+    left: 80px;
+}
+
+.navStyle {
+    text-decoration: none;
+    color: black;
+}
+
+.detailEnter {
+    position: absolute;
+    left: 1650px;
+}
+
+.LoginBtn{
+    color: white;
+    text-decoration: none;
+}
+.SignUp{
+    color: rgb(13, 13, 13);
+    text-decoration: none;
+}
